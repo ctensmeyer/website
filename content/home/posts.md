@@ -2,7 +2,7 @@
 # Recent Posts widget.
 # This widget displays recent posts from `content/post/`.
 
-date = "2016-04-20T00:00:00"
+date = "2017-08-10T00:00:00"
 draft = false
 
 title = "Recent Posts"
@@ -16,7 +16,7 @@ weight = 40
 tags = []
 
 # Number of posts to list.
-count = 5
+count = 3
 
 +++
 
