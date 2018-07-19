@@ -8,15 +8,19 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "*International Conference on Document Analysis and Recognition (ICDAR)*, IEEE."
-publication_short = "*ICDAR*"
+publication_short = "*ICDAR 2017*"
 selected = true
 title = "Convolutional Neural Networks for Font Classification"
 url_code = "https://github.com/ctensmeyer/font_classification"
-url_dataset = "http://clamm.irht.cnrs.fr/"
+#url_dataset = "http://clamm.irht.cnrs.fr/"
 url_pdf = "https://arxiv.org/abs/1708.03669"
 
 [[url_custom]]
-name = "Dataset2"
+name = "CLaMM Dataset"
+url = "http://clamm.irht.cnrs.fr/"
+
+[[url_custom]]
+name = "KAFD Dataset"
 url = "http://kafd.ideas2serve.net/"
 
 [[url_custom]]
@@ -26,6 +30,10 @@ url = "http://axon.cs.byu.edu/clamm/"
 [[url_custom]]
 name = "Docker"
 url = "https://hub.docker.com/r/tensmeyerc/icdar2017/tags/"
+
+[[url_custom]]
+name = "Slides"
+url = "https://drive.google.com/open?id=1GdHMeW7hVYEBVZDd9rif9YKiQ4LK_nm1"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

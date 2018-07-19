@@ -8,12 +8,16 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "*International Conference on Document Analysis and Recognition (ICDAR)*, IEEE."
-publication_short = "*ICDAR*"
+publication_short = "*ICDAR 2017*"
 selected = true
 title = "Analysis of Convolutional Neural Networks for Document Image Classification"
 url_code = "https://github.com/ctensmeyer/caffe"
 url_dataset = "http://scs.ryerson.ca/~aharley/rvl-cdip/"
 url_pdf = "https://arxiv.org/abs/1708.03273"
+
+[[url_custom]]
+name = "Poster"
+url = "https://drive.google.com/open?id=1oPdjEfc4ORN4pvfavXA-t3S-5H4AfvhB"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

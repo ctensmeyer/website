@@ -8,7 +8,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "*4th International Workshop on Historical Document Imaging and Processing*"
-publication_short = "*HIP*"
+publication_short = "*HIP 2017*"
 selected = true
 title = "PageNet: Page Boundary Extraction in Historical Handwritten Documents"
 url_code = "https://github.com/ctensmeyer/pagenet"
@@ -22,6 +22,10 @@ url = "https://github.com/ctensmeyer/pagenet"
 [[url_custom]]
 name = "Docker"
 url = "https://hub.docker.com/r/tensmeyerc/icdar2017/tags/"
+
+[[url_custom]]
+name = "Slides"
+url = "https://drive.google.com/open?id=12hOwhew3HWbBvsaOUTAxpxw6Y8rwDXBq"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

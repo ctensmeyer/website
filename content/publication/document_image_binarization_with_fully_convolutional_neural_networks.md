@@ -8,7 +8,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "*International Conference on Document Analysis and Recognition (ICDAR)*, IEEE."
-publication_short = "*ICDAR*"
+publication_short = "*ICDAR 2017*"
 selected = true
 title = "Document Image Binarization with Fully Convolutional Neural Networks"
 url_code = "https://github.com/ctensmeyer/binarization_2017"
@@ -29,6 +29,10 @@ url = "https://github.com/ctensmeyer/dibco_2017"
 [[url_custom]]
 name = "Docker"
 url = "https://hub.docker.com/r/tensmeyerc/icdar2017/tags/"
+
+[[url_custom]]
+name = "Slides"
+url = "https://drive.google.com/open?id=1MY4TA09bx1y13IlrB7Ksrr6MZWjgWe1h"
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
