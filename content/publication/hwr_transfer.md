@@ -13,7 +13,11 @@ selected = true
 title = "Language Model Supervision for Handwriting Recognition Model Adaptation"
 #url_code = "https://github.com/ctensmeyer/pagenet"
 #url_dataset = "http://www.fki.inf.unibe.ch/databases/iam-handwriting-database"
-url_pdf = "https://drive.google.com/file/d/1yB-ioG7mBtF8nbdpbYNRmRGMf6xtRuPF/view?usp=sharing"
+url_pdf = "https://drive.google.com/open?id=12Y1i23gWmal90d-7exPwOR2Zeso9yPOs"
+
+[[url_custom]]
+name = "Slides"
+url = "https://drive.google.com/open?id=101KPWwd3LzZT1RGLkLB01MG8xheK5g6j"
 
 [[url_custom]]
 name = "IAM Dataset"
